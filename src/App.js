@@ -8,6 +8,7 @@ import Movies from './Pages/Movies/Movies';
 import Series from './Pages/Series/Series';
 import Search from './Pages/Search/Search';
 
+
 function App() {
   return (
     <BrowserRouter>
